@@ -1,8 +1,9 @@
 # Rasbeery brewing controller
 
 This project aims at building a controller for a RIMS/HERMS brew setup. The
-setup has up to five temperature sensors, and one pump. In addition, we the
-project will monitor the sparging, and provide boil time information. Last, it will eventually be used to monitor fermentation and lagering.
+setup has up to five temperature sensors, and one pump. Additional goals are to
+monitor the sparging, provide boil time information (hop additions), and
+eventually to monitor fermentation and lagering.
 
 ## Some project goals
  * Complete logging of all relevant events
